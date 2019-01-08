@@ -1,0 +1,19 @@
+This Folder containes the code for implementing all the data structures in Java.
+
+the following data structures are used : 
+
+[1] Stack
+[2] Queue
+[3] CircularQueue
+[4] Linked List
+[5] Binary Tree
+
+This also contains algorithms for sorting and searching. 
+
+[1] Bubble Sort
+[2] Selection Sort
+[3] Insertion Sort
+[4] Quick Sort
+[5] Merge Sort
+[6] Binary Search
+[7] Selection Search
